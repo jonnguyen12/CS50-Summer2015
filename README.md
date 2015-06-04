@@ -2,7 +2,7 @@
 
 The assignments for Computer Science 50 - Intro to CS at Edx.org.
 
-The course is from the awesome David Malan at Harvard University.
+The course is from the awesome David Malan and the staff at Harvard University.
 
 Code is written by Phuc Nguyen for sharing with other fellows. 
 
